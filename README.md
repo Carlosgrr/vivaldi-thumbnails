@@ -1,6 +1,6 @@
 <h1>Vivaldi SpeedDial Thumbnails</h1>
 
-Vivaldi comes with the YouTube thumbnail the other ones I developed using their fonts and websites as reference material.
+Vivaldi comes with the YouTube thumbnail, the other ones I developed using their fonts and websites as reference material.
 
 <h3>Todo List</h3>
 <ul>
